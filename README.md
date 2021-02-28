@@ -8,10 +8,10 @@ We plan to launch an online FFmpeg service. Please join the beta list if interes
 Please make a pull request to edit this list.
 
 # Requests
-1. Command for turning HTMl5 animations into WebP videos?
+1. Command for turning HTML5 animations into WebP videos?
 
-# Commands
-Please list scenarios and commands here. Where possible, please cite and credit the command creators.
+# Scenarios & Commands
+Where possible, please credit and link to the command creators.
 
 **Convert videos to 720p web-playable videos**
 * Creator: https://github.com/nicbou/

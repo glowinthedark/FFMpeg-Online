@@ -20,3 +20,8 @@ Please list scenarios and commands here. Where possible, please cite and credit 
 **Create hover previews like on modern streaming sites**
 * Creator: https://github.com/nicbou/
 * https://github.com/nicbou/timeline/blob/9d9340930ed0213dffdd884bef17f65c73e86ffc/backend/source/timeline/file_utils.py#L31
+
+**Convert videos to GIFs**
+* Creator:
+* https://engineering.giphy.com/how-to-make-gifs-with-ffmpeg/
+* `ffmpeg -ss 61.0 -t 2.5 -i StickAround.mp4 -filter_complex "[0:v] fps=12,scale=480:-1,split [a][b];[a] palettegen [p];[b][p] paletteuse" SmallerStickAround.gif`

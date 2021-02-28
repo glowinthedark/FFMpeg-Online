@@ -12,7 +12,7 @@ Please make a pull request to add a request or a command.
 1. Command for turning HTMl5 animations into WebP videos?
 
 # Commands
-Please list scenarios and commands here. If you didn't create a command, please cite and credit the people who did.
+Please list scenarios and commands here. Where possible, please cite and credit the command creators.
 
 **Convert videos to 720p web-playable videos**
 * Creator: https://github.com/nicbou/

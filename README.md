@@ -15,8 +15,8 @@ Please make a pull request to add a request or a command.
 Please list scenarios and commands here. If you didn't create a command, please cite and credit the people who did.
 
 * **Convert videos to 720p web-playable videos**
-* Creator: https://github.com/nicbou/
-https://github.com/nicbou/homeserver/blob/22c0a160f9df5f4c34cc7a0dc322d5461a73a28b/videoprocessing/src/jobs.py#L97
+- Creator: https://github.com/nicbou/
+- https://github.com/nicbou/homeserver/blob/22c0a160f9df5f4c34cc7a0dc322d5461a73a28b/videoprocessing/src/jobs.py#L97
 
 * **Create hover previews like on modern streaming sites**
 * Creator: https://github.com/nicbou/

@@ -39,3 +39,9 @@ Where possible, please credit and link to the command creators.
 * Creator: https://www.commandlinefu.com/
 * https://www.commandlinefu.com/commands/matching/ffmpeg/ZmZtcGVn/sort-by-votes
 * `ffmpeg -i video.avi -f mp3 audio.mp3`
+
+**Convert all JPEG images to MP4**
+* Creator: https://www.commandlinefu.com/
+* https://www.commandlinefu.com/commands/view/2005/play-high-res-video-files-on-a-slow-processor
+* `cat *.jpg | ffmpeg -f image2pipe -r 1 -vcodec mjpeg -i - -vcodec libx264 out.mp4`
+

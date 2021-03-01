@@ -12,7 +12,7 @@ Please make a pull request to edit this list.
 
 
 # Requests
-1. Command for turning HTML5 animations into WebP videos?
+1. Command for turning HTML5 animations into WebM videos?
 
 # Scenarios & Commands
 Where possible, please credit and link to the command creators.

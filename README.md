@@ -45,3 +45,7 @@ Where possible, please credit and link to the command creators.
 * https://www.commandlinefu.com/commands/view/2005/play-high-res-video-files-on-a-slow-processor
 * `cat *.jpg | ffmpeg -f image2pipe -r 1 -vcodec mjpeg -i - -vcodec libx264 out.mp4`
 
+**Create single-image video With audio**
+* Creator: https://www.commandlinefu.com/
+* https://www.commandlinefu.com/commands/view/12216/creating-a-single-image-video-with-audio-via-ffmpeg
+* `ffmpeg -loop 1 -i image.png -i sound.mp3 -shortest video.mp4`

@@ -5,7 +5,11 @@ Maintained by <a href="https://hotpot.ai?s=ffmpeg-online">Hotpot.ai</a>. Hotpot.
 
 We plan to launch an online GUI-based FFmpeg service. Please join the beta list if interested.
 
+# How To Contribute?
+We welcome any and all contributors who can help demystify the almighty FFmpeg.
+
 Please make a pull request to edit this list.
+
 
 # Requests
 1. Command for turning HTML5 animations into WebP videos?

@@ -34,3 +34,8 @@ Where possible, please credit and link to the command creators.
 * Creator: https://github.com/benwinding
 * https://github.com/benwinding/dotfiles/blob/master/bin/ffcompress
 * `ffmpeg -i INPUT.mp4 -vcodec libx265 -crf 28 OUTPUT.mp4`
+
+**Extract audio from a video**
+* Creator: https://www.commandlinefu.com/
+* https://www.commandlinefu.com/commands/matching/ffmpeg/ZmZtcGVn/sort-by-votes
+* `ffmpeg -i video.avi -f mp3 audio.mp3`

@@ -3,7 +3,7 @@ This repository maintains a list of FFMpeg commands for different situations.
 
 Maintained by <a href="https://hotpot.ai?s=ffmpeg-online">Hotpot.ai</a>. Hotpot.ai offers AI tools and drag-n-drop software for graphic design and media creation.
 
-We plan to launch an online FFmpeg service. Please join the beta list if interested.
+We plan to launch an online GUI-based FFmpeg service. Please join the beta list if interested.
 
 Please make a pull request to edit this list.
 

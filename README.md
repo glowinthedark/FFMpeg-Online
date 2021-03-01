@@ -25,3 +25,8 @@ Where possible, please credit and link to the command creators.
 * Creator: https://engineering.giphy.com/
 * https://engineering.giphy.com/how-to-make-gifs-with-ffmpeg/
 * `ffmpeg -ss 61.0 -t 2.5 -i StickAround.mp4 -filter_complex "[0:v] fps=12,scale=480:-1,split [a][b];[a] palettegen [p];[b][p] paletteuse" SmallerStickAround.gif`
+
+**Compress videos**
+* Creator: https://github.com/benwinding
+* https://github.com/benwinding/dotfiles/blob/master/bin/ffcompress
+* `ffmpeg -i INPUT.mp4 -vcodec libx265 -crf 28 OUTPUT.mp4`

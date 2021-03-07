@@ -50,7 +50,7 @@ Where possible, please credit and link to the command creators.
 * https://www.commandlinefu.com/commands/view/12216/creating-a-single-image-video-with-audio-via-ffmpeg
 * `ffmpeg -loop 1 -i image.png -i sound.mp3 -shortest video.mp4`
 
-**Make h265/HEVC .mkv videos playable in Quicktime/Apple TV**
+**Make H265/HEVC .mkv videos playable in QuickTime/Apple TV**
 * Creator: https://news.ycombinator.com/user?id=varenc
 * `ffmpeg -i input_hevc.mkv -map 0:v -map 0:a -map 0:s:0 -c copy -c:s mov_text -vtag hvc1 output.mp4`
 
